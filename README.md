@@ -1,4 +1,4 @@
-<h1 align="center" >Display Current Date and Time</h1>
+<h1 align="center" >Display Current Date and Time:</h1>
 
 - This is a simple HTML file that displays the current date and time when a button is clicked.
 <div align="center" >
