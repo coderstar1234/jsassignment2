@@ -5,7 +5,7 @@
 <img height="300" wedith="300" src="https://datainflow.com/wp-content/uploads/2017/09/Display-Indian-current-Date-Time-Zone-using-php.jpg"></div>
 <hr>
 
-<h1 align="center" >How to Use:</h1>
+<h1 align="center" >How to Use:-</h1>
 
 - To use this code, simply open the index.html file in a web browser.
 - Click the "Display Date and Time" button to see the current date and time displayed below the button.
