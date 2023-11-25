@@ -10,7 +10,7 @@
 - To use this code, simply open the index.html file in a web browser.
 - Click the "Display Date and Time" button to see the current date and time displayed below the button.
 <hr>
-<h1 align="center" >Code Explanation</h1>
+<h1 align="center" >Code Explanation:</h1>
 
 - The index.html file contains the HTML code for the button and the script that displays the date and time. 
 - The button is created using the <button> tag with an onclick attribute that calls the displayDateTime() function when clicked.
