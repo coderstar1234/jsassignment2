@@ -21,7 +21,7 @@
 - The displayDateTime() function uses the Date object to obtain the current date and time, and the toLocaleString() method to convert it to a human-readable format.
 - The date and time is then displayed in a <p> element with an id of "datetime" using the innerHTML property of the document.getElementById() method.
 <hr>
-<h1 align="center" >License:</h1>
+<h1 align="center" >License:-</h1>
 
 - This code is licensed under the MIT License. See the LICENSE file for details.
 <hr>
