@@ -13,6 +13,7 @@
 <h1 align="center" >Code Explanation:-</h1>
 
 - The index.html file contains the HTML code for the button and the script that displays the date and time. 
+
 - The button is created using the <button> tag with an onclick attribute that calls the displayDateTime() function when clicked.
   <div align="center" >
 <img height="300" wedith="300" src="https://i.stack.imgur.com/CavZY.png"></div>
